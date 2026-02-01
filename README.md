@@ -7,7 +7,7 @@ It allows users to add patient records, display patient details, and generate ho
 ---
 
 ## 🎯 Objectives
-- To automate basic hospital management tasks  
+- To automate basic hospital management tasks
 - To maintain patient records efficiently  
 - To generate bills based on the number of days admitted  
 - To apply core C++ concepts in a real-world problem  
