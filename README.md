@@ -33,6 +33,4 @@ It allows users to add patient records, display patient details, and generate ho
   - Arrays  
   - Switch-case & loops  
 
----
 
-## 🧩 Project Structure
